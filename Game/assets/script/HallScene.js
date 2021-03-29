@@ -34,7 +34,7 @@ cc.Class({
     // onLoad () {},
 
     start () {
-
+		//ssssss
     },
 
     onBtnClick() {
